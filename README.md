@@ -1,4 +1,5 @@
-📟 The Assessments Plan
+### 📟 The Assessments Plan
+
 We must all suffer from one of two pains: the pain of discipline or the pain of regret.
 
 Theory Class (2 credit)
