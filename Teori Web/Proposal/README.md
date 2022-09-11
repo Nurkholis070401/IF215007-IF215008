@@ -20,4 +20,5 @@
 |Kelas| string| 10 A|
 
 ### UX Wireframe
-![image](https://user-images.githubusercontent.com/100669802/189517728-6113fe23-7001-4d07-af06-f7c0ffdcbaa6.png)
+
+![UX](https://user-images.githubusercontent.com/100669802/189517766-b9e27ccf-a052-4b5e-9927-27ae5da22604.jpg)
