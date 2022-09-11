@@ -1,6 +1,6 @@
 ### #Browser Api - event handling, local storage, element manipulation
 
-|Form Pengunjung UKS||
+|Form Pengunjung UKS||||
 |---|---|---|---|
 |Nama|NIS|Kelas|Keperluan|
 |Asep J|28031892| 10 A| Demam|
