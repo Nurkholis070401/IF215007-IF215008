@@ -1,11 +1,11 @@
 ### #Browser Api - event handling, local storage, element manipulation
 
 |Form Pengunjung UKS||
-|---|---|
-|Nama|Asep J|
-|NIS|28031892|
-|Kelas|10 A|
-|Kendala|Demam|
+|---|---|---|---|
+|Nama|NIS|Kelas|Keperluan|
+|Asep J|28031892| 10 A| Demam|
+|Oman|1234|11 A| Beli obat Balsem|
+|Kholis|122412|11 B| Menjenguk|
 
 
 
