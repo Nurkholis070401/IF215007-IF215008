@@ -1,4 +1,4 @@
-## BarangBekasApp
+## TokoApp
 ### Permasalahan
 - Banyak item yang sudah tidak terpakai dan berakhir terbuang.
 - Item yang sudah tidak terpakai dapat dijual atau di sumbangkan.
