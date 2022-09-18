@@ -1,17 +1,19 @@
-## TokoApp
+# E-Learning 
+## | Media ajar 5 SD (Video & Game web)
 ### Permasalahan
-- Banyak item yang sudah tidak terpakai dan berakhir terbuang.
-- Item yang sudah tidak terpakai dapat dijual atau di sumbangkan.
+- banyak orang yang membutuhkan pembelajaran gratis.
+- orang-orang atau terutama para pelajar ketika mendengar kata 'coding' atau ngoding mereka merasa bahwa keahlian tersebut adalah sesuatu yang mustahil mereka kuasai.
+- hampir tidak terbatas dalam hal IT untuk menciptakan suatu hal, sehingga indonesia tidak banyak penggunaan orang luar.
 ### Rancangan Solusi
-- Bikin app yang menyediakan dan menyortir dan klasifikasikan item.
-- Data informasi dan deskripsi setiap item dapat diliat di aplikasi.
-- Penjualan item
--
+- membuat webiste kurussu gratis atau e-learning
+- terdapat berbagai video tutorial 
+- pengenalan website,digital,OS,aplikasi.
+- tersedia quiz game
 ### Use Case
 - User dapat registrasi menggunakan nomor hp atau email
-- User dapat membeli item
-- User dapat melihat deskripsi item
-- User dapat menambah item
+- User dapat menonton berbagai jenis video tutor/project
+- User dapat berpartisipasi kursus online
+- user berpartisipasi game quiz
 ### Struktur Data
 #### User
 |atribut | tipe data| contoh|
