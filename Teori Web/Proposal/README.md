@@ -6,9 +6,10 @@
 - hampir tidak terbatas dalam hal IT untuk menciptakan suatu hal, sehingga indonesia tidak banyak penggunaan orang luar.
 ### Rancangan Solusi
 - membuat webiste kurussu gratis atau e-learning
-- terdapat berbagai video tutorial 
-- pengenalan website,digital,OS,aplikasi.
+- terdapat berbagai video tutorial,motivasi & karir
+- pengenalan website,digital,OS,aplikasi & yang lainnya.
 - tersedia quiz game
+- 
 ### Use Case
 - User dapat registrasi menggunakan nomor hp atau email
 - User dapat menonton berbagai jenis video tutor/project
