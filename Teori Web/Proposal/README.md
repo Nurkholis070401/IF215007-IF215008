@@ -24,4 +24,4 @@
 |Nomor| string| 12345555|
 
 ### UX Wireframe
-~
+![UX](https://user-images.githubusercontent.com/100669802/191530711-c1c223dc-06dd-422f-a683-c5be665617a0.png)
