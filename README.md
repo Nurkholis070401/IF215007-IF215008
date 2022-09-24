@@ -1,5 +1,5 @@
 
-# 🌏 IF215007 IF215008 Pengembangan Aplikasi Web
+# 🌏 IF215007 IF215008 Web Application Development
 
 ## 🌟 The Course Learning Outcomes (CLO)
 
