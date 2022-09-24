@@ -1,3 +1,4 @@
+## Centang The Course Learning Outcomes :heavy_check_mark:
 ### Pertemuan 01
 - Browser API : Event Handling, Local storage, Element manipulation
 ### Pertemuan 02
