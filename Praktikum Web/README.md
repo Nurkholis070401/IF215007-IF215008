@@ -7,4 +7,5 @@
 ### Pertemuan 03
 - Javascript Transformasi data
 ### Pertemuan 04
-- React JS
+- React JS ( install node, react)
+- run project npm start
