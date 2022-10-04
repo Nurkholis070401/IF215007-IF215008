@@ -6,6 +6,8 @@
 - HTML Responsive Layout with Media Query & Flexbox
 ### Pertemuan 03
 - Javascript Transformasi data
+- singel paage use github.io
+- share location 
 ### Pertemuan 04
 - React JS ( install node, react)
   - install node&npm 
