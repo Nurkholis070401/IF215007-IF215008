@@ -8,4 +8,6 @@
 - Javascript Transformasi data
 ### Pertemuan 04
 - React JS ( install node, react)
+  - install node&npm 
+  - npx/yarn create react-app 'my-app'
 - run project npm start
