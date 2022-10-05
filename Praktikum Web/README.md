@@ -13,3 +13,6 @@
   - install node&npm 
   - npx/yarn create react-app 'my-app'
 - run project npm start
+### Pertemuan 05
+- function-parameter-attribut
+- useState
