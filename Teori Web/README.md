@@ -20,3 +20,5 @@
 - Design systems : Design systems are all the rage and while most articles talk about what they are and best practices for creating them
 - UX Wireframe : create mockup use figma dsb, there is a relation for each ux.
 ### Pertemuan 06
+- UTS
+### Pertemuan 07
