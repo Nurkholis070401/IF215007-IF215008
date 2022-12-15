@@ -17,10 +17,10 @@
             <td rowspan=13>30 %</td>
         </tr>
         <tr>
-            <td>Demo : Git installation</td><td>1</td>
+            <td>Demo : Git installation</td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : Github project initialization</td><td>1</td>
+            <td>Demo : Github project initialization</td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : Hoppscotch / Postman access</td><td>1</td>
@@ -29,7 +29,7 @@
             <td>Demo : PHP & Composer installation & hello world</td><td>2</td>
         </tr>
         <tr>
-            <td>Demo : PostgreSQL / MySQL installation</td><td>2</td>
+            <td>Demo : PostgreSQL / MySQL installation</td><td>2 :heavy_check_mark:</td>
         </tr>        
         <tr>
             <td>Demo : DBeaver installation & DB connection</td><td>2</td>
