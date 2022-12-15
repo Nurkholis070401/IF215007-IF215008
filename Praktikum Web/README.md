@@ -1,5 +1,5 @@
 ## Centang The Course Learning Outcomes :heavy_check_mark:
-
+## 📟 The Assessments Plan
 ### Workshop Class (1 credit)
 
 <table>
@@ -23,10 +23,10 @@
             <td>Demo : Github project initialization</td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : Hoppscotch / Postman access</td><td>1</td>
+            <td>Demo : Hoppscotch / Postman access</td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : PHP & Composer installation & hello world</td><td>2</td>
+            <td>Demo : PHP & Composer installation & hello world</td><td>2 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : PostgreSQL / MySQL installation</td><td>2 :heavy_check_mark:</td>
