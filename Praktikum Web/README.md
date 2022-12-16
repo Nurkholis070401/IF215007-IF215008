@@ -17,7 +17,7 @@
             <td rowspan=13>30 %</td>
         </tr>
         <tr>
-            <td>Demo : Git installation</td><td>1 :heavy_check_mark:</td>
+            <td>Demo : [Git installation](/)</td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : Github project initialization</td><td>1 :heavy_check_mark:</td>
