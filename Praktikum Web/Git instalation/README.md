@@ -31,6 +31,6 @@ Catatan: git-scmadalah sumber yang populer dan direkomendasikan untuk mengunduh 
 ---
 
 ### Git Bash
-(![image])https://user-images.githubusercontent.com/100669802/208050313-591d8ad3-08db-4e86-8415-92e7e7323246.jpeg
+![image](https://user-images.githubusercontent.com/100669802/208050313-591d8ad3-08db-4e86-8415-92e7e7323246.jpeg)
 ![image](https://user-images.githubusercontent.com/100669802/209052670-74e0d5ff-6136-4c04-93a3-817742f50439.png)
 
