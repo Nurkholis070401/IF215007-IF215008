@@ -1,3 +1,7 @@
+### Image 
+![image](https://user-images.githubusercontent.com/100669802/209060298-d5b0090b-593f-43e4-86d6-8f6237c10386.png)
+
+![image](https://user-images.githubusercontent.com/100669802/209060536-62eacf6c-47d1-4165-b5dd-367e2c3c0238.png)
 
 #### Buat sesi baru, dan:
 1. Tambahkan 192.168.0.100sebagai host jarak jauh Anda. Tentukan nama pengguna dan port jika perlu.
