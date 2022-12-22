@@ -5,7 +5,7 @@ ini adalah hello world package for php composer beginner untuk tutorial. baca le
 ## Usage ##
 
 ```bash
-$ composer require rivsen/hello-world
+$ composer require kholis/hello-world
 $ touch test.php
 ```
 
@@ -13,7 +13,7 @@ $ touch test.php
 <?php
 require_once "vendor/autoload.php";
 
-$hello = new Rivsen\Demo\Hello();
+$hello = new Kholis\Demo\Hello();
 echo $hello->hello();
 ```
 
