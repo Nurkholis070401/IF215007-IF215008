@@ -19,4 +19,4 @@ echo $DISPLAY
 ---------
 
 * [Fixing Vim's Background Color Erase for 256-color tmux and GNU screen](http://sunaku.github.io/vim-256color-bce.html)
-* [github] (https://github.com/SeokjuLee/terminal-setup)
+* [github](https://github.com/SeokjuLee/terminal-setup)
