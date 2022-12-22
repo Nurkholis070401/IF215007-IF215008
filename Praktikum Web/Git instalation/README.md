@@ -23,9 +23,10 @@ Catatan: git-scmadalah sumber yang populer dan direkomendasikan untuk mengunduh 
 Sebagian besar versi MacOS sudah Gitterinstal, dan Anda dapat mengaktifkannya melalui terminal dengan git version. Namun, jika Anda tidak menginstal Git karena alasan apa pun, Anda dapat menginstal Git versi terbaru menggunakan salah satu dari beberapa metode populer seperti yang tercantum di bawah ini:
 
 #### Instal Git Dari Pemasang
-Arahkan ke macOS Git Installer terbaru dan unduh versi terbaru.
-Setelah penginstal dimulai, ikuti petunjuk yang diberikan hingga penginstalan selesai.
-Buka command prompt "terminal" dan ketik git versionuntuk memverifikasi Git telah diinstal.
+1. Arahkan ke macOS Git Installer terbaru dan unduh versi terbaru.
+2. Setelah penginstal dimulai, ikuti petunjuk yang diberikan hingga penginstalan selesai.
+3. Buka command prompt "terminal" dan ketik git versionuntuk memverifikasi Git telah diinstal.
+
 Catatan: git-scmadalah sumber yang populer dan direkomendasikan untuk mengunduh Git di Mac. Keuntungan mengunduh Git dari git-scmadalah unduhan Anda secara otomatis dimulai dengan Git versi terbaru. Sumber unduhan adalah Penginstal macOS Git yang sama seperti yang dirujuk pada langkah-langkah di atas.
 
 ---
