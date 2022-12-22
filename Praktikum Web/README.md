@@ -17,16 +17,16 @@
             <td rowspan=13>30 %</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Per%20Demoan">Git installation</a></td><td>1 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Git%20instalation">Git installation</a></td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="">Github project initialization</td><td>1 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Git%20Project%20init">Github project initialization</td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="">Hoppscotch / Postman access</td><td>1 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://user-images.githubusercontent.com/100669802/209055072-1cfd9b3d-aea8-4339-bd9f-18f3707ee29c.png">Hoppscotch / Postman access</td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="">PHP & Composer installation & hello world</td><td>2 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/PHP%20%26%20Composer%20installation%20%26%20hello%20world">PHP & Composer installation & hello world</td><td>2 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Pertemuan%2003">PostgreSQL / MySQL installation</td><td>2 :heavy_check_mark:</td>
@@ -35,7 +35,7 @@
             <td>Demo : <a href="">DBeaver installation & DB connection</td><td>2 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="">MobaXterm installation & SSH connection</td><td>2 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/MobaExterm">MobaXterm installation & SSH connection</td><td>2 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href="">NodeJS & NPM installation, operation & hello world</td><td>4 :heavy_check_mark:</td>
