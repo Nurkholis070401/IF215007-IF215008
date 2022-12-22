@@ -61,3 +61,7 @@
 
     # Try connecting to the new database with the new user
     sudo -u git -H psql -d gitlabhq_production
+
+### Image
+
+![image](https://user-images.githubusercontent.com/100669802/209051031-c2b16984-361e-4fff-a9b9-e5cb443928fc.png)
