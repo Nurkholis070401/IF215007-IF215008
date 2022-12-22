@@ -4,7 +4,7 @@
 ### [Hoppscotch / Postman access](https://user-images.githubusercontent.com/100669802/209055072-1cfd9b3d-aea8-4339-bd9f-18f3707ee29c.png)
 ### [PHP & Composer installation & hello world](https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/PHP%20%26%20Composer%20installation%20%26%20hello%20world)
 ### [PostgreSQL / MySQL installation](https://user-images.githubusercontent.com/100669802/209051031-c2b16984-361e-4fff-a9b9-e5cb443928fc.png)
-### [ DBeaver installation & DB connection](https://user-images.githubusercontent.com/100669802/209051360-3a18d38c-320d-4fdc-9bab-3907f62734d8.png)
+### [ DBeaver installation & DB connection](https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/DBeaver%20installation%20%26%20DB%20connection)
 ### [MobaXterm installation & SSH connection](https://user-images.githubusercontent.com/100669802/209058740-9a7d5e92-2c8f-44b2-aa47-2849ce3006c3.png)
 
 ### [NodeJS & NPM installation, operation & hello world]
