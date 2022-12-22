@@ -3,7 +3,7 @@
 Cara menginstal Git di OS apa pun
 
 Git dapat diinstal pada sistem operasi paling umum seperti Windows, Mac, dan Linux. Faktanya, Git terinstal secara default di sebagian besar mesin Mac dan Linux!
-
+[Klik link disini](https://github.com/git-guides/install-git)
 ### Checking for Git
 Untuk melihat apakah Anda sudah menginstal Git, buka aplikasi terminal Anda.
 
