@@ -43,7 +43,7 @@
 
 
 ## PostgreSQL
-
+    # install PostgreSQL [Link](https://www.postgresql.org/download/)
     # Install the database packages
     sudo apt-get install -y postgresql-9.1 libpq-dev
 
