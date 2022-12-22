@@ -10,8 +10,9 @@ Mendukung basis data apa pun yang memiliki driver JDBC (yang pada dasarnya berar
 * Berdasarkan platform <a href="https://wiki.eclipse.org/Rich_Client_Platform">Eclipse</a> platform.
 * Menggunakan arsitektur plugin dan menyediakan fungsionalitas tambahan untuk database berikut: MySQL/MariaDB, PostgreSQL, Greenplum, Oracle, DB2 LUW, Exasol, SQL Server, Sybase/SAP ASE, SQLite, Firebird, H2, HSQLDB, Derby, Teradata, Vertica, Netezza , Infomix, dll.
 
-<a href="https://dbeaver.io/product/dbeaver-ss-classic-new.png"><img src="https://dbeaver.io/product/dbeaver-ss-classic-new.png" width="400"/></a>
-<a href="(https://user-images.githubusercontent.com/100669802/209051360-3a18d38c-320d-4fdc-9bab-3907f62734d8.png)"
+<a href="https://dbeaver.io/product/dbeaver-ss-classic-new.png"><img src="https://dbeaver.io/product/dbeaver-ss-classic-new.png" width="500"/></a>
+<a href="https://user-images.githubusercontent.com/100669802/209051360-3a18d38c-320d-4fdc-9bab-3907f62734d8.png"><img src="https://user-images.githubusercontent.com/100669802/209051360-3a18d38c-320d-4fdc-9bab-3907f62734d8.png" width="500"/></a>
+   
 ## Download
 
 Anda dapat mengunduh binari bawaan dari <a href="https://dbeaver.io/download" target="_blank">official website</a> atau langsung dari <a href="https://github.com/dbeaver/dbeaver/releases">GitHub releases</a>.  
