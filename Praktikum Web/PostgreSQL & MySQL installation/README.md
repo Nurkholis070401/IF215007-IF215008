@@ -1,5 +1,5 @@
 
-## MySQL
+## MySQL [Install MySQL](https://dev.mysql.com/downloads/installer/)
 
     # Install the database packages
     sudo apt-get install -y mysql-server mysql-client libmysqlclient-dev
@@ -42,8 +42,8 @@
     # You are done installing the database and can go back to the rest of the installation.
 
 
-## PostgreSQL
-    # install PostgreSQL [Link](https://www.postgresql.org/download/)
+## PostgreSQL [install PostgreSQL](https://www.postgresql.org/download/)
+
     # Install the database packages
     sudo apt-get install -y postgresql-9.1 libpq-dev
 
