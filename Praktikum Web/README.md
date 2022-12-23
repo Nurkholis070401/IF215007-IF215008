@@ -69,7 +69,7 @@
             <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Pertemuan%2002">HTTP GET & POST using Form Action and Fetch API</td><td>5 :heavy_check_mark:</td>
         </tr>    
         <tr>
-            <td>Demo : <a href="">PHP DB - Dynamic Web Page</td><td>5</td>
+            <td>Demo : <a href="">PHP DB - Dynamic Web Page</td><td>5 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href="https://github.com/Nurkholis070401/BooksApp">PHP DB - Web Service</td><td>5 :heavy_check_mark:</td>
