@@ -72,7 +72,7 @@
             <td>Demo : <a href="">PHP DB - Dynamic Web Page</td><td>5</td>
         </tr>
         <tr>
-            <td>Demo : PHP DB - Web Service</td><td>5</td>
+            <td>Demo : <a href="https://github.com/Nurkholis070401/BooksApp">PHP DB - Web Service</td><td>5</td>
         </tr>
         <tr>
             <td>Demo : OOP-based PHP Project using Composer</td><td>4</td>
