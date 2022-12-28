@@ -164,10 +164,10 @@
             <td rowspan=6>35 %</td>
         </tr>
         <tr>
-            <td>Demo : <a href="">HTML Responsive Layout with Bootstrap</td><td>3 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/Nurkholis070401/LearnGo-Full-Stack">HTML Responsive Layout with Bootstrap</td><td>3 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="">Single Page App with React & React-router</td><td>12 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/Nurkholis070401/LearnGo-Full-Stack">Single Page App with React & React-router</td><td>12 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : Dynamic Web Page using Laravel</td><td>9</td>
