@@ -157,7 +157,7 @@
             <td>Demo : OOP-based PHP Project using Composer</td><td>4</td>
         </tr>    
         <tr>
-            <td>Demo : Deploy PHP Project to Cpanel</td><td>4 :heavy_check_mark:</td>
+            <td>Demo : <a href="">Deploy PHP Project to Cpanel</td><td>4 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td rowspan=6>CLO-0213</td>
