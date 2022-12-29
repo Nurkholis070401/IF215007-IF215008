@@ -126,7 +126,7 @@
             <td>Demo : <a href="">Nginx / Apache web server installation & operation</td><td>5 </td>
         </tr>
         <tr>
-            <td>Demo : <a href="">Cpanel operation</td><td>4</td>
+            <td>Demo : <a href="">Cpanel operation</td><td>4 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href="https://github.com/ramabhagadhara/karyawan">Domain registration</td><td>1 :heavy_check_mark:</td>
@@ -157,7 +157,7 @@
             <td>Demo : OOP-based PHP Project using Composer</td><td>4</td>
         </tr>    
         <tr>
-            <td>Demo : Deploy PHP Project to Cpanel</td><td>4</td>
+            <td>Demo : Deploy PHP Project to Cpanel</td><td>4 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td rowspan=6>CLO-0213</td>
